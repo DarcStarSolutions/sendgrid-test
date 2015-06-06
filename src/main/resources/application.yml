@@ -1,6 +1,6 @@
 sendgrid:
-  username: "darcwynd"
-  password: "021m2554"
+  username: "Your Usename"
+  password: "Your Password"
   email:
-    to_address: "premiercompanionsil@gmail.com"
-    from_address: "darcwynd6969@gmail.com"
+    to_address: "Your To Address"
+    from_address: "Your From Address"
